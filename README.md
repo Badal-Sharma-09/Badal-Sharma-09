@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.enwallpaper.com/wp-content/uploads/2021/11/Tensei-Shitara-Slime-Datta-Ken-Rimuru-Tempest-720x1280-1-500x889.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -48,8 +44,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Badal-Sharma-09/Badal-Sharma-09/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://th.bing.com/th/id/OIP.TG7i0Tn7OQiRMKJFc0BucAHaEK?rs=1&pid=ImgDetMain"  />
+</div>
 
 ###
